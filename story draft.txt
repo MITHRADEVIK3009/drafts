@@ -1,0 +1,107 @@
+From First Canva Designs to Professional UI/UX – My Design Journey (May–September 2024)
+When I look back at the last few months, it almost feels like I’ve lived an entire design career in fast forward. I began in May 2024, not as an experienced UI/UX designer, but as someone deeply curious about how visuals could tell stories. My first steps were with Canva—that simple drag-and-drop tool where I started experimenting with layouts, colors, and text combinations.
+
+I didn’t have a client, a deadline, or even a clear “goal” at that point. I simply wanted to see if I could create something that felt beautiful and cohesive. My Canva site project was my playground—an open canvas to test my instincts. I learned that design is not just about adding elements but knowing when not to add them. Every choice mattered—fonts, spacing, alignment—all of it influenced how a viewer felt. It was my first taste of visual storytelling, and it lit a spark in me.
+
+First Steps Into the Professional World – CollegeTips.in (June 2024)
+By late June, I got an opportunity with CollegeTips.in, stepping into the content creation side of digital work. It wasn’t purely design; it was about writing content that felt alive. The challenge was translating brand goals into words that could connect with their audience.
+
+I wrote, edited, and structured articles with precision, learning how content and design work together—content gives the message, and design gives it a home. It was during this time I realized that as a designer, I couldn’t just think visually. I had to think about meaning. This project taught me the importance of synergy between text and visuals—a lesson that would serve me throughout the rest of my journey.
+
+UI/UX Awakening – Cognifyz Technologies (June–July 2024)
+Then came my UI/UX design internship with Cognifyz Technologies starting June 4, 2024. This was a turning point. For the first time, I wasn’t designing for myself—I was designing for users. Every wireframe, every button, every flow had to make sense to someone who wasn’t me.
+
+The pressure was real. I was expected to produce functional, aesthetically pleasing designs on deadlines. I conducted user research, built prototypes, and presented my ideas to supervisors. I learned to accept feedback—not as criticism but as fuel to improve.
+
+I also saw how accessibility standards shaped design decisions. It wasn’t enough for a layout to “look good”—it had to work for people with different needs and devices. The discipline of aligning creativity with usability was challenging, but it grounded me in user-centered design thinking.
+
+Fast-Paced Creativity – Codsoft (June 20 – July 2024)
+While I was still finishing Cognifyz tasks, I took up another internship at Codsoft. Here, the pace was faster, and the variety of projects was greater. I worked on:
+
+UI/UX prototypes for hypothetical client projects.
+
+Email marketing designs focused on conversion.
+
+Restaurant menu layouts balancing readability with style.
+
+E-commerce product pages optimized for browsing.
+
+The experience was a double-edged sword. On one hand, I got to explore diverse industries and styles in a short period. On the other, I realized the industry sometimes has internships that aren’t what they claim to be. Later, I learned that Codsoft had been flagged online as a scam internship provider.
+
+At first, I felt conflicted about including the work in my portfolio—but then I reminded myself: the work I created was real. My effort, my creativity, my learning—they were genuine. I chose to showcase the designs not to support the internship itself but to acknowledge my growth during that time.
+
+A Month That Broadened My Perspective – CollegeTips.in (June 30 – July 30, 2024)
+Just as June was ending, I reconnected with CollegeTips.in—this time for a month-long content writing internship.
+
+CollegeTips.in is India’s largest student community platform, known for its fast-moving ideas, creative campaigns, and collaborative energy. I joined as a Content Writing Intern, and at first, I wondered how this non-technical role would connect to my long-term goal in software engineering. But it turned out to be like joining a hackathon without code—finding new tools, adapting quickly, and delivering under constraints.
+
+My daily work included:
+
+Writing introductions and responses for founder Q&A sessions.
+
+Creating proposals for outreach to companies and institutions.
+
+Supporting affiliate marketing activities for courses.
+
+Designing digital posters for campaigns and awareness drives (including a “Most Pet-Friendly City” poster, which I still have as proof).
+
+Suggesting strategies to improve engagement.
+
+Each task had to be submitted before 5 PM. This strict cut-off taught me time management under pressure, especially when it clashed with my evening special classes for internal assessments. At first, I missed a couple of deadlines, but I adapted by finishing tasks early in the day or during short breaks.
+
+Midway through, I was recognized as one of the “Precious Pearls” for consistency, adaptability, and independent contribution. For me, it was proof that persistence mattered more than starting with perfect skills.
+
+This internship sharpened my communication clarity, context switching, and problem-solving within boundaries—skills that apply directly to both software development and UI/UX work. It reminded me that adaptability and empathy for the end user aren’t “soft skills”—they’re force multipliers for technical expertise.
+
+Organizing Chaos – College Event Magazine (July 2024)
+One of my favorite projects was designing a college event magazine. It came as an assignment, but I treated it like a passion project.
+
+The challenge? I was handed scattered content and images, and my job was to bring them together into a coherent, visually appealing magazine—in just 3 days. I researched the event, arranged the articles in logical sequences, selected matching color palettes, and created a flow that guided the reader from page to page effortlessly.
+
+It was intense but deeply rewarding. This project gave me an appreciation for information design—how the order, grouping, and emphasis of elements could turn chaos into clarity.
+
+A Deep Dive into Professional Collaboration – DNYX Technologies (July 31 – September 30, 2024)
+By the end of July, I joined DNYX Technologies, a fresh design agency that specialized in web development, UI/UX, and digital marketing. Unlike my earlier internships, here I was working directly with founders and creative leads.
+
+One of my first tasks was to design website footer options. While others submitted 7–9 variations, I presented only 3—but each one was intentional. I knew that too many options could overwhelm decision-making. Instead, I focused on clarity, relevance, and brand alignment.
+
+I studied the existing blurred golden lighting theme of the website, selected complementary colors, ensured text readability, and aligned typography to match the overall tone. These weren’t random choices—they were the result of careful consideration.
+
+What stood out most about DNYX was the collaborative culture. I wasn’t just handing over designs to be coded—I was part of discussions about how design impacts development. Even though I wasn’t in meetings with the development team directly, I learned about their challenges: performance optimization, code constraints, and technical feasibility.
+
+Perspective Shift – From Design to Development
+Before DNYX, I thought design was about making decisions and development was about executing them. But during those months, I began to see parallels.
+
+In design, I had to keep up with evolving trends, constantly study user behavior, and adapt my style. In development, the same was true—frameworks update, syntax changes, and tools evolve rapidly.
+
+For example, when I started learning React in January 2025, I worked with a certain syntax for state management and component structure. By mid-2025, newer React documentation encouraged slightly different patterns, reflecting the constant evolution of the ecosystem. It reminded me of design—nothing stays static; adaptability is the real skill.
+
+Lessons That Stayed With Me
+Across these months, I learned much more than software tools and design principles. I learned about perspective:
+
+In design, empathy means understanding the user’s world.
+
+In development, empathy means understanding the system’s world.
+
+In both, problem-solving comes from asking the right questions before jumping into solutions.
+
+I also learned to handle uncertainty and challenges. Some internships weren’t as legitimate as they seemed. Some projects were overwhelming at first glance. Some deadlines felt impossible. But each time, I reminded myself: focus on what you can control—your effort, your clarity, your creativity.
+
+Closing Thoughts
+Looking back from May to September 2024, I see a timeline filled with firsts—
+
+First design experiments in Canva.
+
+First professional project balancing text and visuals.
+
+First user-focused designs in UI/UX.
+
+First multi-industry creative work under tight deadlines.
+
+First experience collaborating at a high level in a professional design agency.
+
+First deep dive into adaptability through a non-technical role at CollegeTips.in.
+
+Each step wasn’t just about adding a line to my resume—it was about shaping my thinking. I entered this journey seeing design as a way to make things look beautiful. I came out seeing it as a way to solve problems, tell stories, and connect people to ideas—whether through visuals, words, or code.
+
+And as I continue into web development and beyond, I know one thing: the skills, struggles, and perspectives from these months will follow me into every project I take on.
